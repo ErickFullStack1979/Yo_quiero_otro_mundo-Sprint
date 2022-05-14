@@ -9,7 +9,8 @@ Con el botón "Limpiar" borras el visor para escribir un nuevo cálculo.
 Esta calculadora utiliza "." como separador decimal.
 
 Integrantes del proyecto:
-_Nicolás Muñoz
-_Erick Díaz
-_Cristian Maturana
-_Francisco Carreño
+
+Nicolás Muñoz.
+Erick Díaz.
+Cristian Maturana.
+Francisco Carreño.
